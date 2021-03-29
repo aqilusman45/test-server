@@ -1,0 +1,4 @@
+node_modules
+
+# env
+src/pre-start/env
